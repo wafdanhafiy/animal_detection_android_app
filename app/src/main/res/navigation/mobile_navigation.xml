@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_detections">
+
+    <fragment
+        android:id="@+id/navigation_detections"
+        android:name="com.tugasakhir.animaldetection.ui.detections.DetectionsFragment"
+        android:label="@string/title_detections"
+        tools:layout="@layout/fragment_detections" />
+
+    <fragment
+        android:id="@+id/navigation_data"
+        android:name="com.tugasakhir.animaldetection.ui.datalist.DataFragment"
+        android:label="@string/title_data"
+        tools:layout="@layout/fragment_data" />
+
+    <fragment
+        android:id="@+id/navigation_articles"
+        android:name="com.tugasakhir.animaldetection.ui.article.ArticlesFragment"
+        android:label="@string/title_articles"
+        tools:layout="@layout/fragment_articles" />
+
+    <fragment
+        android:id="@+id/navigation_info"
+        android:name="com.tugasakhir.animaldetection.ui.info.InfoFragment"
+        android:label="@string/title_info"
+        tools:layout="@layout/fragment_info" />
+
+</navigation>

@@ -1,0 +1,84 @@
+{
+  "data":[
+    {
+      "id": "a01",
+      "title": "Bear",
+      "deskripsi1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "imgUrl": "https://us-tuna-sounds-images.voicemod.net/617da473-98d1-4e85-b3ab-b12d94ef1ba1-1657495772469.jpg"
+    },
+    {
+      "id": "a02",
+      "title": "Big Cat",
+      "deskripsi1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "imgUrl": "https://i.pinimg.com/originals/71/7f/ef/717fef4a63e1810a0f1b846fcbc2d41c.jpg"
+    },
+    {
+      "id": "a03",
+      "title": "Crocodile",
+      "deskripsi1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "imgUrl": "https://media.istockphoto.com/videos/crocodile-opening-a-mouth-video-id828465344?s=640x640"
+    },
+    {
+      "id": "a04",
+      "title": "Elephant",
+      "deskripsi1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/One_angry_elephant.jpg/2560px-One_angry_elephant.jpg"
+    },
+    {
+      "id": "a05",
+      "title": "Hippopotamus",
+      "deskripsi1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "imgUrl": "https://miro.medium.com/max/1400/1*Q0AGWYttgDCKpAMz1Vzssg.jpeg"
+    },
+    {
+      "id": "a06",
+      "title": "Komodo Dragon",
+      "deskripsi1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "imgUrl": "https://whc.unesco.org/uploads/thumbs/site_0609_0015-750-750-20170222120018.jpg"
+    },
+    {
+      "id": "a07",
+      "title": "Rhino",
+      "deskripsi1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "imgUrl": "https://i.pinimg.com/736x/d2/b0/a8/d2b0a87c1bbde64d489bc96dbee23d76.jpg"
+    },
+    {
+      "id": "a08",
+      "title": "Scorpion",
+      "deskripsi1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "imgUrl": "https://a-z-animals.com/media/2018/09/Scorpion-header.jpg"
+    },
+    {
+      "id": "a09",
+      "title": "Snake",
+      "deskripsi1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/12_-_The_Mystical_King_Cobra_and_Coffee_Forests.jpg"
+    },
+    {
+      "id": "a10",
+      "title": "Wolf",
+      "deskripsi1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "deskripsi3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at venenatis massa. Praesent vel neque ligula. Nullam bibendum condimentum ante at congue. Vivamus gravida sit amet justo ac porta. In ac placerat odio. Curabitur vitae quam congue, euismod urna eget, tristique felis. In luctus ante commodo, ultrices velit placerat, euismod eros.",
+      "imgUrl": "https://media.istockphoto.com/photos/snarling-wolf-picture-id106508309?k=20&m=106508309&s=612x612&w=0&h=mEGaI7Zh8qdDNgWm8RXqnHlppVt5YVOzx9u7OI-ug5Y="
+    }
+  ]
+}
